@@ -1,2 +1,2 @@
 var d = document.getElementById("amm");
-d.innerHTML = '<marquee scrollamount="23"><b>1411</b></marquee><img src="https://bit.ly/2Y1VQec"width="200">';
+d.innerHTML = '<link rel="stylesheet" href="https://getbootstrap.com/docs/4.3/dist/css/bootstrap.min.css"/><marquee scrollamount="23"><b>1411</b></marquee><img src="https://bit.ly/2Y1VQec"width="200">';
